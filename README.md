@@ -1,4 +1,4 @@
-# table-magic
+# Auto Create Table
 
 Allows you to seamlessly switch between CSV, TSV, HTML, SQL, markdown and a little form-based editor. Also allows you to preview the table as it would appear on GitHub.
 
